@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @elameendaiyabu
+- 👀 I’m interested in Front-End Development
+- 🌱 I’m currently learning react and Next.js. Good with vanilla JS
+- 💞️ I’m looking to collaborate on any interesting project. Just HMU!!!
+- 📫 How to reach me: [Email: elameendaiyabu@gmail.com] | [Twitter](https://twitter.com/elameendk) | [Instagram](https://instagram.com/daiyabuu_)
