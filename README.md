@@ -46,8 +46,8 @@
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=elameendaiyabu&theme=react&hide_border=true" height="150px"/>
     </td>
     <td align="center">
-      <img src="https://github.com/elameendaiyabu/elameendaiyabu/assets/75623505/a7f014b3-269c-43d2-b4da-2a64290193fe" width="50%"/>
-      <img src="https://github.com/elameendaiyabu/elameendaiyabu/assets/75623505/db70565c-292f-4d4f-a48e-ba806e841e41" width="50%"/>
+      <img src="https://github.com/SoumyaRanjanPatnaik/SoumyaRanjanPatnaik/assets/75623505/a7f014b3-269c-43d2-b4da-2a64290193fe" width="50%"/>
+      <img src="https://github.com/SoumyaRanjanPatnaik/SoumyaRanjanPatnaik/assets/75623505/db70565c-292f-4d4f-a48e-ba806e841e41" width="50%"/>
     </td>
   </tr>
 </tbody>
