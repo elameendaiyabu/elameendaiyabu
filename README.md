@@ -19,7 +19,7 @@ Welcome to my GitHub profile! I'm passionate about software development and alwa
 
 Here are some of the projects I've been working on:
 
-- [Learnie](https://learnie.vercel.app/) - a learning recommendation app for students using gemini api. Was built using next js.
+- [resorz.ai](https://resorzai.vercel.app/) - a learning recommendation app for students using gemini api. Was built using next js.
 - [caliphate-makhtaba](https://caliphate-makhtaba.vercel.app/) - a book reading app with an admin dashboard to upload and delete books. built with next js and supabase.
 - [go-pong](https://github.com/elameendaiyabu/go-pong) - a ping pong game in golang using ebiten engine.
 - [git-visualizer](https://github.com/elameendaiyabu/go-git-visualizer) - a command line tool to visualize local git commits. It was built using Go.
